@@ -14,8 +14,6 @@ Tento program je jednoduchý LAN skener vytvořený v C# pomocí Windows Forms j
 - Filtrování výsledků (např. pouze online zařízení)
 - Responzivní GUI – přizpůsobuje se velikosti okna
 
-## Náhled
-
 ## Požadavky
 
 - Visual Studio 2019 nebo novější
