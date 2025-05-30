@@ -24,6 +24,6 @@ Tento program je jednoduchý LAN skener vytvořený v C# pomocí Windows Forms j
 ## Jak aplikaci spustit
 
 1. Otevři projekt ve Visual Studiu.
-2. Sestav (`Ctrl + Shift + B`) a spusť (`F5`).
+2. Sestav (Ctrl + Shift + B) a spusť (F5).
 3. Zadej rozsah IP adres nebo použij automatické vyplnění.
-4. Klikni na `Skenovat`.
+4. Klikni na "Skenovat".
