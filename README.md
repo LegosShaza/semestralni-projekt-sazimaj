@@ -1,6 +1,6 @@
 # LAN Skener – Semestrální Projekt
 
-Tento program je jednoduchý LAN skener vytvořený v C# pomocí Windows Forms jako součást semestrální práce.
+Tento program je LAN skener vytvořený v C# pomocí Windows Forms jako součást semestrální práce.
 
 ## Funkce
 
