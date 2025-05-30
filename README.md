@@ -16,7 +16,7 @@ Tento program je jednoduchý LAN skener vytvořený v C# pomocí Windows Forms j
 
 ## Náhled
 
-## ⚙Požadavky
+## Požadavky
 
 - Visual Studio 2019 nebo novější
 - .NET Framework 4.7.2 nebo novější
