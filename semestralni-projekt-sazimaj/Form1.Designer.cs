@@ -107,6 +107,7 @@
             this.buttonScan.TabIndex = 18;
             this.buttonScan.Text = "Scan";
             this.buttonScan.UseVisualStyleBackColor = true;
+            this.buttonScan.Click += new System.EventHandler(this.buttonScan_Click);
             // 
             // checkBoxPortScan
             // 
